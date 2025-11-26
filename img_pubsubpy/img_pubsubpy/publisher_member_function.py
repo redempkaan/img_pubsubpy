@@ -6,7 +6,7 @@ import socket
 import requests
 import time
 
-SIGNAL_SERVER = "http://16.171.17.139:80" 
+SIGNAL_SERVER = "ip address"
 
 class MinimalPublisher(Node):
 
